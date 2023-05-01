@@ -13,7 +13,8 @@ Each project has its own directory with a README file that provides more detaile
 ## Getting Started
 
 To get started with this repository, simply clone the repository to your local machine:
-git clone https://github.com/[your-username]/python-projects.git
+
+```git clone https://github.com/[your-username]/python-projects.git```
 
 
 Each project has its own set of dependencies and instructions for running the project, which can be found in the project's README file.
