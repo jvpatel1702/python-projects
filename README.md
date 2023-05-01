@@ -6,7 +6,7 @@ Welcome to my "python-projects" repository! This repository contains a collectio
 
 Here is a list of the projects included in this repository:
 
-- None for now...
+- [Simple Calculator](https://github.com/jvpatel1702/python-projects/blob/main/simpleCalulator.py)
 
 Each project has its own directory with a README file that provides more detailed information about the project.
 
