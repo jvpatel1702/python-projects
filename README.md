@@ -7,6 +7,7 @@ Welcome to my "python-projects" repository! This repository contains a collectio
 Here is a list of the projects included in this repository:
 
 - [Simple Calculator](https://github.com/jvpatel1702/python-projects/tree/main/Simple%20Calculator)
+- [Hangman Game](https://github.com/jvpatel1702/python-projects/tree/main/Hangman%20Game)
 
 Each project has its own directory with a README file that provides more detailed information about the project.
 
